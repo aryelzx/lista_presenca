@@ -18,4 +18,5 @@
  - CSS3
  - React
  - TypeScript
+ - JSON
  
